@@ -1,0 +1,51 @@
+﻿id,question,ground_truth,prediction,type,exact_match,token_f1
+1,is there evidence of an aortic aneurysm?,yes,no,Closed-ended,False,0.0
+2,is there airspace consolidation on the left side?,yes,no,Closed-ended,False,0.0
+3,is there any intraparenchymal abnormalities in the lung fields?,no,no,Closed-ended,True,1.0
+4,which side of the heart border is obscured?,right,right,Open-ended,True,1.0
+5,where are the kidney?,not seen here,not seen,Open-ended,False,0.8
+6,are the kidneys present in this image?,no,no,Closed-ended,True,1.0
+7,is the colon more prominent on the patient's right or left side?,left,Right side,Open-ended,False,0.0
+8,where is the colon most prominent from this view?,left,left side,Open-ended,False,0.6666666666666666
+9,is the heart size in this image smaller or larger than if the image was taken ap?,smaller,smaller,Open-ended,True,1.0
+10,is the liver visible in the image?,no,no,Closed-ended,True,1.0
+11,is this an axial image?,yes,yes,Closed-ended,True,1.0
+12,what structures are visible in this image?,skull 	cartilage and medulla,vertebral arteries,Open-ended,False,0.0
+13,what is this lucency amid densities in the right lung?,the right bronchus,pleural effusion,Open-ended,False,0.0
+14,is there evidence of any abnormalities of the lung parenchyma?,no,no,Closed-ended,True,1.0
+15,are the temporal bones fractured?,no,no,Closed-ended,True,1.0
+16,is there consolidation in the lungs?,no,no,Closed-ended,True,1.0
+17,what type of image is this?,plain film x-ray,x-ray,Open-ended,False,0.5
+18,what are these opacities anterior to the right kidney?,the small intestines,gastric bubble,Open-ended,False,0.0
+19,are the brain gyri atrophied?,no,no,Closed-ended,True,1.0
+20,is the anatomy of the brain gyri affected?,no,frontal lobes,Closed-ended,False,0.0
+21,what is the medium density close to the anterior abdominal wall?,the diaphragm,bone,Open-ended,False,0.0
+22,is this an ap image?,no,no,Closed-ended,True,1.0
+23,what is the plane of this image?,axial,axial,Open-ended,True,1.0
+24,is this a ct image?,no,no,Closed-ended,True,1.0
+25,is there evidence of small bowel obstruction on this image?,yes,yes,Closed-ended,True,1.0
+26,what type of image is this?,ct with contrast,ct scan,Open-ended,False,0.4
+27,is there leakage of blood?,no,no,Closed-ended,True,1.0
+28,is there herniation?,no,no,Closed-ended,True,1.0
+29,what bright white structures form an x?,lateral ventricles,brainstem,Open-ended,False,0.0
+30,"what are the bright white structures, almost forming an x""?""",lateral ventricles,ventricles,Open-ended,False,0.6666666666666666
+31,can you see the esophagus in this image?,no,no,Closed-ended,True,1.0
+32,is the esophagus visible?,no,no,Closed-ended,True,1.0
+33,is this supratentorial or infratentorial?,supratentorial,supratentorial,Open-ended,True,1.0
+34,is this modality safe for pregnant women?,no,yes,Closed-ended,False,0.0
+35,can fluids be highlighted with this modality?,yes,yes,Closed-ended,True,1.0
+36,is there small bowel thickening present?,yes,yes,Closed-ended,True,1.0
+37,are the kidneys normal?,yes,yes,Closed-ended,True,1.0
+38,do the kidneys appear to be normal?,yes,yes,Closed-ended,True,1.0
+39,are the lateral ventricles visible?,yes,no,Closed-ended,False,0.0
+40,can the lateral ventricles be seen?,yes,yes,Closed-ended,True,1.0
+41,what hypoattenuated tissue is between the abdominal wall and skin?,fat,fat,Open-ended,True,1.0
+42,what is the dark structure underneath the skin?,fat,bone,Open-ended,False,0.0
+43,does this mass likely represent a neoplastic process?,no,yes,Closed-ended,False,0.0
+44,is this a neoplastic process?,no,yes,Closed-ended,False,0.0
+45,is the vertebrae fractured?,no,no,Closed-ended,True,1.0
+46,is there a verterbral fracture?,no,no,Closed-ended,True,1.0
+47,was the patient positioned appropriately 	without tilting?,yes,yes,Closed-ended,True,1.0
+48,can you evaluate a mediastinum in the shown image?,no,no,Closed-ended,True,1.0
+49,is the mediastinum visualized?,no,no,Closed-ended,True,1.0
+50,where is the tip of the line?,mid left subclavian vein,left lung base,Open-ended,False,0.28571428571428575

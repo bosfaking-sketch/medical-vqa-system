@@ -1,0 +1,7 @@
+
+torch
+transformers==5.16.1
+gradio==6.26.0
+qwen-vl-utils
+accelerate
+Pillow
